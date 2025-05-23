@@ -94,8 +94,9 @@ header h1 {
         width: 100%;
         max-width: 100%;
     }
-    header h1 {
+    header h1  {
         font-size: 1.3em;
         margin: 12px 0;
+        color: red;
     }
 }
